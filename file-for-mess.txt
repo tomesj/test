@@ -1,0 +1,2 @@
+This file should be used for purposeless commits,
+ used to check out Git/GitHub features.
